@@ -1,1 +1,1 @@
-https://keraskodo.github.io/drkr/appruntime.js|30
+https://keraskodo.github.io/anm/appruntime.js|30
