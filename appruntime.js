@@ -551,8 +551,8 @@ function getRecommends() {
 				dataType: "JSON",
 				headers: {'X-Requested-With': "m.akubebas.com" },
 				data: {
-					search: "",
-					category: "drama korea",
+					search: "anime",
+					category: "",
 					filter: "",
 					xcountry: "",
 					limit: 0,
